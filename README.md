@@ -1,4 +1,4 @@
-# scala-web-gradle-spring-thyme-secure-des-encrypt-bcrypt-encoded
+# scala-web-gradle-spring-thyme-register-des-encrypt-bcrypt-encoded
 
 ## Description
 A springboot secure web app with thymeleaf support.
